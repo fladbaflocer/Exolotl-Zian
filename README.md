@@ -191,4 +191,4 @@ This repository serves as the official landing page for Exolotl: ZIAN. The softw
 **Get the most recent version of Exolotl: ZIAN today!**
 
 ---
-**Last updated:** 2026-11-13 13:58:14 UTC
+**Last updated:** 2026-11-13 20:49:39 UTC
